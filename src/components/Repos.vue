@@ -28,7 +28,6 @@ const filteredRepos = computed(() => {
   );
 });
 
-// Burada includes ile filtreleme yapıyoruz eğer input direkt boşsa hepsini return etiyor girilince filtrelemey başlıyor
 </script>
 
 <template>
